@@ -59,7 +59,7 @@ public class MainScreen extends Frame implements Observer {
         this.setLayout(null);
         //      getContentPane().setLayout(null);
         setBackground(new Color(212, 208, 200));
-        this.setTitle("Neliware Communicator v.1.0");
+        this.setTitle("GH Communicator v.1.0");
         this.setResizable(false);
 
         lstUsuarios.setBounds(new Rectangle(293, 109, 174, 243));
